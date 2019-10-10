@@ -1,7 +1,10 @@
 {
-  "name": "vueTemp-cli",
+  "name": "vue-tp-cli",
   "version": "1.0.0",
+  "description": "A simple CLI for creating your project",
+  "private": false,
   "main": "index.js",
+  "author": "junxiang.zheng",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
